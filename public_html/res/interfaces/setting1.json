@@ -1,0 +1,208 @@
+{
+	"frames": {
+		"chekBox_001.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 1.5,
+				"w": 49,
+				"h": 42.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 10,
+				"y": 7.5,
+				"w": 49,
+				"h": 42.5
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 56
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"chekBox_002.png": {
+			"frame": {
+				"x": 51.5,
+				"y": 1.5,
+				"w": 67.5,
+				"h": 56
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 67.5,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 56
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"chekBox_003.png": {
+			"frame": {
+				"x": 120,
+				"y": 1.5,
+				"w": 61.5,
+				"h": 52
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 2,
+				"w": 61.5,
+				"h": 52
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 56
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"chekBox_004.png": {
+			"frame": {
+				"x": 182.5,
+				"y": 1.5,
+				"w": 67.5,
+				"h": 56
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 67.5,
+				"h": 56
+			},
+			"sourceSize": {
+				"w": 68,
+				"h": 56
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"progressBtn_001.png": {
+			"frame": {
+				"x": 251,
+				"y": 1.5,
+				"w": 23.5,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23.5,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"progressBtn_002.png": {
+			"frame": {
+				"x": 275.5,
+				"y": 1.5,
+				"w": 23.5,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23.5,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"progressBtn_003.png": {
+			"frame": {
+				"x": 300,
+				"y": 1.5,
+				"w": 23.5,
+				"h": 45.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0.5,
+				"w": 23.5,
+				"h": 45.5
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"progressBtn_004.png": {
+			"frame": {
+				"x": 324.5,
+				"y": 1.5,
+				"w": 23.5,
+				"h": 46
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 23.5,
+				"h": 46
+			},
+			"sourceSize": {
+				"w": 24,
+				"h": 46
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "setting1.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 349.5,
+			"h": 59
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:438b0ce22a29abfe50cc466685987277:5f38ad9fc0c3c19cf9ac32b6aab0d924:92092b6db6407a172b2368553a2419e2$"
+	}
+}

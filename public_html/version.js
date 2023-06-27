@@ -1,0 +1,2 @@
+version="tc-83";
+libs=["https://cdn.jsdelivr.net/npm/@azerion/h5-ad-wrapper@0.5/build/h5-ad-wrapper.min.js","https://cdn.jsdelivr.net/npm/@azerion/h5-azerion-branding@0.6/build/h5-azerion-branding.min.js","https://cdn.jsdelivr.net/npm/@azerion/phaser@2.6/build/phaser.min.js"];

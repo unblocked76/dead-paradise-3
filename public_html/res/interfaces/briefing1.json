@@ -1,0 +1,184 @@
+{
+	"frames": {
+		"lvlIco_001.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 1.5,
+				"w": 360,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 360,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 360,
+				"h": 144
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"lvlIco_002.png": {
+			"frame": {
+				"x": 362.5,
+				"y": 1.5,
+				"w": 360,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 360,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 360,
+				"h": 144
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"lvlIco_003.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 146.5,
+				"w": 360,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 360,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 360,
+				"h": 144
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"lvlIco_004.png": {
+			"frame": {
+				"x": 362.5,
+				"y": 146.5,
+				"w": 360,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 360,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 360,
+				"h": 144
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"lvlIco_005.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 291.5,
+				"w": 360,
+				"h": 144
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 360,
+				"h": 144
+			},
+			"sourceSize": {
+				"w": 360,
+				"h": 144
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"star_001.png": {
+			"frame": {
+				"x": 362.5,
+				"y": 291.5,
+				"w": 113,
+				"h": 107
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0.5,
+				"y": 0.5,
+				"w": 113,
+				"h": 107
+			},
+			"sourceSize": {
+				"w": 114,
+				"h": 108
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"star_002.png": {
+			"frame": {
+				"x": 476.5,
+				"y": 291.5,
+				"w": 113.5,
+				"h": 108
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 113.5,
+				"h": 108
+			},
+			"sourceSize": {
+				"w": 114,
+				"h": 108
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "briefing1.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 724,
+			"h": 437
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:7057472b99d2d13ede0af67ea9b19942:04c682d7c4b3b8b995ef3338e884b15a:d5d33b7f2fb28c9cec7fd509bbca3f28$"
+	}
+}

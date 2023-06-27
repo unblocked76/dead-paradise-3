@@ -1,0 +1,376 @@
+{
+	"frames": {
+		"btnNewGames_001.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 1.5,
+				"w": 295,
+				"h": 63.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7.5,
+				"y": 3,
+				"w": 295,
+				"h": 63.5
+			},
+			"sourceSize": {
+				"w": 310,
+				"h": 70
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnNewGames_002.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 66,
+				"w": 310,
+				"h": 70
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 310,
+				"h": 70
+			},
+			"sourceSize": {
+				"w": 310,
+				"h": 70
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnNewGames_003.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 137,
+				"w": 295,
+				"h": 63.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 7.5,
+				"y": 3,
+				"w": 295,
+				"h": 63.5
+			},
+			"sourceSize": {
+				"w": 310,
+				"h": 70
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnNo_001.png": {
+			"frame": {
+				"x": 297.5,
+				"y": 137,
+				"w": 35,
+				"h": 35.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4.5,
+				"y": 4,
+				"w": 35,
+				"h": 35.5
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnNo_002.png": {
+			"frame": {
+				"x": 333.5,
+				"y": 137,
+				"w": 44,
+				"h": 44
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 44,
+				"h": 44
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnNo_003.png": {
+			"frame": {
+				"x": 378.5,
+				"y": 137,
+				"w": 34,
+				"h": 34
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 4.5,
+				"w": 34,
+				"h": 34
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnYes_001.png": {
+			"frame": {
+				"x": 413.5,
+				"y": 137,
+				"w": 35,
+				"h": 35.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 4.5,
+				"y": 4,
+				"w": 35,
+				"h": 35.5
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnYes_002.png": {
+			"frame": {
+				"x": 449.5,
+				"y": 137,
+				"w": 44,
+				"h": 44
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 44,
+				"h": 44
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnYes_003.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 201.5,
+				"w": 34,
+				"h": 34
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 4.5,
+				"w": 34,
+				"h": 34
+			},
+			"sourceSize": {
+				"w": 44,
+				"h": 44
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_001.png": {
+			"frame": {
+				"x": 36.5,
+				"y": 201.5,
+				"w": 55.5,
+				"h": 28.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3.5,
+				"y": 1.5,
+				"w": 55.5,
+				"h": 28.5
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_002.png": {
+			"frame": {
+				"x": 93,
+				"y": 201.5,
+				"w": 51.5,
+				"h": 31.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5.5,
+				"y": 0,
+				"w": 51.5,
+				"h": 31.5
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_003.png": {
+			"frame": {
+				"x": 145.5,
+				"y": 201.5,
+				"w": 62.5,
+				"h": 31.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 62.5,
+				"h": 31.5
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_004.png": {
+			"frame": {
+				"x": 209,
+				"y": 201.5,
+				"w": 64,
+				"h": 28.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1.5,
+				"w": 64,
+				"h": 28.5
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_005.png": {
+			"frame": {
+				"x": 274,
+				"y": 201.5,
+				"w": 52,
+				"h": 28
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 5,
+				"y": 2.5,
+				"w": 52,
+				"h": 28
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"slotCars_006.png": {
+			"frame": {
+				"x": 209,
+				"y": 201.5,
+				"w": 64,
+				"h": 28.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 1.5,
+				"w": 64,
+				"h": 28.5
+			},
+			"sourceSize": {
+				"w": 64,
+				"h": 32
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "slots1.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 495,
+			"h": 237
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:cbd7662c27bcc58f7e362f5177115a2c:097679d74aefeb40c71bac6ea16e8942:f2f5d22da19de3390a016a8ad0deee59$"
+	}
+}

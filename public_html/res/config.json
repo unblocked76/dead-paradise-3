@@ -1,0 +1,847 @@
+{
+    "levels": {
+        "main": [
+            {
+                "num": 1,
+                "name": "Turning Back",
+                "enemiesImage": "enemies08",
+                "enemies": ["Blaze", "Marauder", "Armor", "B.F.G"],
+                "location": 1,
+                "description": "There are refugees in base \"51\". They won't\nlast long here.\nOur only option is to take them to\n\"Paradise\" and organize a colony there.\nThere's no other choice...",
+                "stars": [
+                    {
+                        "target": 10,
+                        "price": 1000
+                    },
+                    {
+                        "target": 16,
+                        "price": 1750
+                    },
+                    {
+                        "target": 22,
+                        "price": 2000
+                    }
+                ]
+            },
+            {
+                "num": 2,
+                "name": "Night Breakthrough",
+                "enemiesImage": "enemies08",
+                "enemies": ["Blaze", "Marauder", "Armor", "B.F.G"],
+                "location": 1,
+                "description": "A full blown war has begun around the base.\nAn unknown military organization has\nbegun battle.\nAnd I thought things couldn't get worse...",
+                "stars": [
+                    {
+                        "target": 17,
+                        "price": 1000
+                    },
+                    {
+                        "target": 23,
+                        "price": 1750
+                    },
+                    {
+                        "target": 32,
+                        "price": 2000
+                    }
+                ]
+            },
+            {
+                "num": 3,
+                "name": "To the Bitter End",
+                "enemiesImage": "enemies08",
+                "enemies": ["Blaze", "Marauder", "Armor", "B.F.G"],
+                "location": 1,
+                "description": "It's strange but they're trying to destroy my\nconvoy at all costs.\nI can't let this happen.",
+                "stars": [
+                    {
+                        "target": 23,
+                        "price": 1000
+                    },
+                    {
+                        "target": 35,
+                        "price": 1750
+                    },
+                    {
+                        "target": 45,
+                        "price": 2000
+                    }
+                ]
+            },
+            {
+                "num": 4,
+                "name": "Old Friends",
+                "enemiesImage": "enemies09",
+                "enemies": ["Tracker", "Elegant", "Blizzard", "Hermit"],
+                "location": 2,
+                "description": "Again mountains and again raiders. They\nhaven't forgotten me yet.\nThis won't be an easy stroll.",
+                "stars": [
+                    {
+                        "target": 30,
+                        "price": 1500
+                    },
+                    {
+                        "target": 45,
+                        "price": 2000
+                    },
+                    {
+                        "target": 52,
+                        "price": 2500
+                    }
+                ]
+            },
+            {
+                "num": 5,
+                "name": "Snow Pass",
+                "enemiesImage": "enemies09",
+                "enemies": ["Tracker", "Elegant", "Blizzard", "Hermit"],
+                "location": 2,
+                "description": "They caves have collapsed. We need to go\nthrough the pass.\nWe should try to this quietly.",
+                "stars": [
+                    {
+                        "target": 35,
+                        "price": 1500
+                    },
+                    {
+                        "target": 42,
+                        "price": 2000
+                    },
+                    {
+                        "target": 50,
+                        "price": 2500
+                    }
+                ]
+            },
+            {
+                "num": 6,
+                "name": "Difficult Descent",
+                "enemiesImage": "enemies09",
+                "enemies": ["Tracker", "Elegant", "Blizzard", "Hermit"],
+                "location": 2,
+                "description": "The convoy is constantly attracting trouble.\nWe need to know what's so special about\nthose refugees. And why they need to reach\n\"Paradise\"",
+                "stars": [
+                    {
+                        "target": 30,
+                        "price": 1500
+                    },
+                    {
+                        "target": 36,
+                        "price": 2000
+                    },
+                    {
+                        "target": 44,
+                        "price": 2500
+                    }
+                ]
+            },
+            {
+                "num": 7,
+                "name": "Impassable Place",
+                "enemiesImage": "enemies10",
+                "enemies": ["Hound", "Sheriff", "Hot rod", "Shocker"],
+                "location": 3,
+                "description": "We've finally reached the marshes. Without\ntheir leader, the local bandits have really\ngone over the top. We're going to have to\nfight them.",
+                "stars": [
+                    {
+                        "target": 27,
+                        "price": 2000
+                    },
+                    {
+                        "target": 34,
+                        "price": 2500
+                    },
+                    {
+                        "target": 40,
+                        "price": 3000
+                    }
+                ]
+            },
+            {
+                "num": 8,
+                "name": "Big Trouble",
+                "enemiesImage": "enemies10",
+                "enemies": ["Hound", "Sheriff", "Hot rod", "Shocker"],
+                "location": 3,
+                "description": "More problems: our provisions have almost\nrun out and our machines are breaking\ndown more often. But stopping now means\nlosing.",
+                "stars": [
+                    {
+                        "target": 42,
+                        "price": 2000
+                    },
+                    {
+                        "target": 51,
+                        "price": 2500
+                    },
+                    {
+                        "target": 60,
+                        "price": 3000
+                    }
+                ]
+            },
+            {
+                "num": 9,
+                "name": "Dead Paradise",
+                "enemiesImage": "enemies10",
+                "enemies": ["Hound", "Sheriff", "Hot rod", "Shocker"],
+                "location": 3,
+                "description": "One last push and we'll be in the city. My\nDeath race began from there once.And now\nmy mysterious refugees want to get there.",
+                "stars": [
+                    {
+                        "target": 35,
+                        "price": 2000
+                    },
+                    {
+                        "target": 44,
+                        "price": 2500
+                    },
+                    {
+                        "target": 52,
+                        "price": 3000
+                    }
+                ]
+            },
+            {
+                "num": 10,
+                "name": "Breakthrough",
+                "enemiesImage": "enemies11",
+                "enemies": ["Wasp", "Raider", "Barrel", "Bomber"],
+                "location": 4,
+                "description": "My companions turned out to be scientists.\nThey have a plan to stop this madness. I\nsuspected they weren't your ordinary\nrefugees. Now I finally understand my real\nmission.",
+                "stars": [
+                    {
+                        "target": 35,
+                        "price": 2500
+                    },
+                    {
+                        "target": 43,
+                        "price": 3000
+                    },
+                    {
+                        "target": 52,
+                        "price": 3500
+                    }
+                ]
+            },
+            {
+                "num": 11,
+                "name": "The Plan",
+                "enemiesImage": "enemies11",
+                "enemies": ["Wasp", "Raider", "Barrel", "Bomber"],
+                "location": 4,
+                "description": "The city is blocked by raiders. We'll have to\nfight our way to the classified scientific\ncomplex.",
+                "stars": [
+                    {
+                        "target": 42,
+                        "price": 2500
+                    },
+                    {
+                        "target": 52,
+                        "price": 3000
+                    },
+                    {
+                        "target": 63,
+                        "price": 3500
+                    }
+                ]
+            },
+            {
+                "num": 12,
+                "name": "A New Hope",
+                "enemiesImage": "enemies11",
+                "enemies": ["Wasp", "Raider", "Barrel", "Bomber"],
+                "location": 4,
+                "description": "All that remains is to upload the code into\nthe collider starting system.\nI still can't believe it, but the collider will\nreturn me to a time before the nuclear war\nbegan. I'll have chance to put everything\nright...",
+                "stars": [
+                    {
+                        "target": 43,
+                        "price": 2500
+                    },
+                    {
+                        "target": 54,
+                        "price": 3000
+                    },
+                    {
+                        "target": 63,
+                        "price": 3500
+                    }
+                ]
+            }
+        ],
+        "special": [
+            {
+                "num": 13,
+                "name": "Back to the Future",
+                "enemiesImage": "enemies12",
+                "enemies": ["Alligator", "Nomad", "Ack-ack", "Maraudeurs"],
+                "location": 5,
+                "description": "Something went wrong. The collider brought\nme into the future.\nIt looks like all the rider bands have\ngathered around \"Paradise\".\nI have to try again.",
+                "need": 12,
+                "stars": [
+                    {
+                        "target": 52,
+                        "price": 1000
+                    }
+                ]
+            },
+            {
+                "num": 14,
+                "name": "The Fierce Battle",
+                "enemiesImage": "enemies12",
+                "enemies": ["Alligator", "Nomad", "Ack-ack", "Maraudeurs"],
+                "location": 5,
+                "description": "The oppositions is very strong. My way to the\nresearch station is cut off, but I can't go\nback either. I have only one goal.",
+                "need": 24,
+                "stars": [
+                    {
+                        "target": 43,
+                        "price": 2000
+                    }
+                ]
+            },
+            {
+                "num": 15,
+                "name": "The Last Chance",
+                "enemiesImage": "enemies12",
+                "enemies": ["Alligator", "Nomad", "Ack-ack", "Maraudeurs"],
+                "location": 5,
+                "description": "The raiders want to use the collider for their\nown plans. I have to get to it before them.\nOnly I can put everything right.",
+                "need": 36,
+                "stars": [
+                    {
+                        "target": 38,
+                        "price": 3000
+                    }
+                ]
+            }
+        ]
+    },
+    "shop": {
+        "departments": [
+            {
+                "name": "cars"
+            },
+            {
+                "name": "shield",
+                "text": "  +$ HP"
+            },
+            {
+                "name": "motor",
+                "text": " +$ mph"
+            },
+            {
+                "name": "fuel tank",
+                "text": "   +$ Liters"
+            },
+            {
+                "name": "wheels",
+                "text": " $'"
+            },
+            {
+                "name": "guns",
+                "text": "dmg: $   "
+            },
+            {
+                "name": "rocket launcher",
+                "text": "dmg: $   "
+            }
+        ],
+        "cars": {
+            "predator": {
+                "type": "opened",
+                "number": 6,
+                "shield": [
+                    {
+                        "title": "plated hull",
+                        "value": 500,
+                        "cost": 2500
+                    },
+                    {
+                        "title": "frontal\narmor skirt",
+                        "value": 500,
+                        "cost": 3000
+                    },
+                    {
+                        "title": "side\narmor skirt",
+                        "value": 500,
+                        "cost": 3800
+                    },
+                    {
+                        "title": "frontal\narmor",
+                        "value": 500,
+                        "cost": 6500
+                    },
+                    {
+                        "title": "forage armor",
+                        "value": 500,
+                        "cost": 8500
+                    }
+                ],
+                "motor": [
+                    {
+                        "title": "core engine",
+                        "value": 10,
+                        "cost": 0
+                    },
+                    {
+                        "title": "exhaust\nsystem",
+                        "value": 10,
+                        "cost": 2400
+                    },
+                    {
+                        "title": "backup\nengine",
+                        "value": 10,
+                        "cost": 3000
+                    },
+                    {
+                        "title": "improved\ntransmission",
+                        "value": 10,
+                        "cost": 3700
+                    },
+                    {
+                        "title": "lambda\ndriver",
+                        "value": 10,
+                        "cost": 6400
+                    },
+                    {
+                        "title": "catalytic\narray",
+                        "value": 10,
+                        "cost": 8200
+                    }
+                ],
+                "fuel tank": [
+                    {
+                        "title": "base\nfuel tank",
+                        "value": 10,
+                        "cost": 0
+                    },
+                    {
+                        "title": "fuel tank\nlevel 1",
+                        "value": 20,
+                        "cost": 750
+                    },
+                    {
+                        "title": "fuel tank\nlevel 2",
+                        "value": 50,
+                        "cost": 1050
+                    },
+                    {
+                        "title": "fuel tank\nlevel 3",
+                        "value": 30,
+                        "cost": 2850
+                    },
+                    {
+                        "title": "fuel tank\nlevel 4",
+                        "value": 20,
+                        "cost": 5550
+                    },
+                    {
+                        "title": "fuel tank\nlevel 5",
+                        "value": 50,
+                        "cost": 7550
+                    }
+                ],
+                "wheels": [
+                    {
+                        "title": "\"someshit\"\ntracks",
+                        "value": 22,
+                        "cost": 0
+                    },
+                    {
+                        "title": "worm\ntracks",
+                        "value": 23,
+                        "cost": 2000
+                    },
+                    {
+                        "title": "\"spider\"\ntracks",
+                        "value": 24,
+                        "cost": 2550
+                    },
+                    {
+                        "title": "\"double spider\"\ntracks",
+                        "value": 25,
+                        "cost": 3050
+                    },
+                    {
+                        "title": "jet flow\nfloaters",
+                        "value": 26,
+                        "cost": 5050
+                    },
+                    {
+                        "title": "antigravity\nfloaters",
+                        "value": 27,
+                        "cost": 6450
+                    }
+                ],
+                "guns": [
+                    {
+                        "title": "steam\nmortar",
+                        "value": 500,
+                        "cost": 0
+                    },
+                    {
+                        "title": "AA cannon\narray",
+                        "value": 600,
+                        "cost": 3000
+                    },
+                    {
+                        "title": "\"carl gustaf\"\nhowtizer",
+                        "value": 700,
+                        "cost": 3550
+                    },
+                    {
+                        "title": "A1M1 Adams\nturret",
+                        "value": 800,
+                        "cost": 4050
+                    },
+                    {
+                        "title": "T-98\nturret",
+                        "value": 900,
+                        "cost": 7950
+                    },
+                    {
+                        "title": "\"centurion\"\nprototype",
+                        "value": 1000,
+                        "cost": 10000
+                    }
+                ],
+                "rocket launcher": [
+                    {
+                        "title": "U.A.V.\nlauncher",
+                        "value": 750,
+                        "cost": 0,
+                        "image": "pc6_6",
+                        "frame": "launcher2_001.png",
+                        "position": [-290, -90],
+                        "anim": "launcher2"
+                    },
+                    {
+                        "title": "guided grenades\narray",
+                        "value": 900,
+                        "cost": 3000,
+                        "image": "pc6_6",
+                        "frame": "launcher3_001.png",
+                        "position": [-290, -70],
+                        "anim": "launcher3"
+                    },
+                    {
+                        "title": "\"vampire\"\nlauncher",
+                        "value": 1100,
+                        "cost": 3500,
+                        "image": "pc6_5",
+                        "frame": "launcher1_001.png",
+                        "position": [-290, -70],
+                        "anim": "launcher1"
+                    },
+                    {
+                        "title": "\"storm\"\nlauncher",
+                        "value": 1200,
+                        "cost": 4000,
+                        "image": "pc6_6",
+                        "frame": "launcher4_001.png",
+                        "position": [-270, -180],
+                        "anim": "launcher4"
+                    },
+                    {
+                        "title": "tactical\nlauncher",
+                        "value": 1300,
+                        "cost": 7900,
+                        "image": "pc6_7",
+                        "frame": "launcher5_001.png",
+                        "position": [-360, -160],
+                        "anim": "launcher5"
+                    },
+                    {
+                        "title": "lightning ball\ngenerator",
+                        "value": 1500,
+                        "cost": 10500,
+                        "image": "pc6_7",
+                        "frame": "launcher6_001.png",
+                        "position": [-310, -90],
+                        "anim": "launcher6",
+                        "rotation": 0.785
+                    }
+                ]
+            },
+            "corsair": {
+                "number": 2,
+                "type": "ready",
+                "cost": 15000,
+                "shield": [
+                    {
+                        "title": "ceramit\nframe",
+                        "value": 200,
+                        "cost": 2500
+                    },
+                    {
+                        "title": "aramid\nfront fender",
+                        "value": 300,
+                        "cost": 3000
+                    },
+                    {
+                        "title": "armored\nroof",
+                        "value": 400,
+                        "cost": 3800
+                    },
+                    {
+                        "title": "aramid\nback fender",
+                        "value": 500,
+                        "cost": 6500
+                    },
+                    {
+                        "title": "aramid doors",
+                        "value": 600,
+                        "cost": 8500
+                    }
+                ],
+                "motor": [
+                    {
+                        "title": "power engine\n\"macross\"",
+                        "value": 5,
+                        "cost": 0
+                    }
+                ],
+                "fuel tank": [
+                    {
+                        "title": "\"optimum\"\nfuel tank",
+                        "value": 4,
+                        "cost": 0
+                    }
+                ],
+                "wheels": [
+                    {
+                        "title": "\"tigers\"\ntires",
+                        "value": 22,
+                        "cost": 0
+                    },
+                    {
+                        "title": "chained\ntires",
+                        "value": 23,
+                        "cost": 2000
+                    }
+                ],
+                "guns": [
+                    {
+                        "title": "double\nion blasters",
+                        "value": 340,
+                        "cost": 0
+                    },
+                    {
+                        "title": "\"tomahawk\"\nthrower",
+                        "value": 370,
+                        "cost": 3000
+                    },
+                    {
+                        "title": "\"typhoon\"\nautocannon",
+                        "value": 410,
+                        "cost": 3550
+                    }
+                ],
+                "rocket launcher": [
+                    {
+                        "title": "\"harpoon\"\nmissiles",
+                        "value": 550,
+                        "cost": 0,
+                        "image": "pc6_6",
+                        "frame": "launcher2_001.png",
+                        "position": [-290, -90],
+                        "anim": "launcher2"
+                    },
+                    {
+                        "title": "\"trident\"\nmissiles",
+                        "value": 590,
+                        "cost": 3000,
+                        "image": "pc6_6",
+                        "frame": "launcher3_001.png",
+                        "position": [-290, -70],
+                        "anim": "launcher3"
+                    }
+                ]
+            },
+            "taiga": {
+                "number": 1,
+                "type": "dp1"
+            },
+            "raider": {
+                "number": 3,
+                "type": "dp2"
+            },
+            "defender": {
+                "number": 4,
+                "type": "dp2"
+            },
+            "striker": {
+                "number": 5,
+                "type": "dp2"
+            }
+        }
+    },
+    "achievements": [
+        {"name": "gunner", "image": 1, "preText": "kill ", "text": " enemies with gun", "targets": [
+            {"value": 50, "reward": 100},
+            {"value": 100, "reward": 200},
+            {"value": 300, "reward": 500},
+            {"value": 600, "reward": 1000},
+            {"value": 1200, "reward": 3000}
+        ]},
+        {"name": "driver", "image": 2, "stat": "distance", "preText": "drive ", "text": " km", "targets": [
+            {"value": 5, "reward": 100},
+            {"value": 10, "reward": 200},
+            {"value": 20, "reward": 500},
+            {"value": 50, "reward": 1000},
+            {"value": 100, "reward": 3000}
+        ]},
+        {"name": "rocketeer", "image": 3, "preText": "kill ", "text": " enemies with rocket", "targets": [
+            {"value": 50, "reward": 100},
+            {"value": 100, "reward": 200},
+            {"value": 200, "reward": 500},
+            {"value": 225, "reward": 1000},
+            {"value": 300, "reward": 3000}
+        ]},
+        {"name": "arsonist", "image": 4, "preText": "burn ", "text": " enemies", "targets": [
+            {"value": 10, "reward": 100},
+            {"value": 20, "reward": 200},
+            {"value": 50, "reward": 500},
+            {"value": 100, "reward": 1000},
+            {"value": 150, "reward": 3000}
+        ]},
+        {"name": "mechanic", "image": 10, "preText": "purchase ", "text": " upgrades", "targets": [
+            {"value": 3, "reward": 100},
+            {"value": 5, "reward": 200},
+            {"value": 10, "reward": 500},
+            {"value": 15, "reward": 1000},
+            {"value": 20, "reward": 3000}
+        ]},
+        {"name": "armourer", "image": 7, "preText": "purchase ", "text": " types of weapon", "targets": [
+            {"value": 2, "reward": 100},
+            {"value": 4, "reward": 200},
+            {"value": 6, "reward": 500},
+            {"value": 8, "reward": 1000},
+            {"value": 10, "reward": 3000}
+        ]},
+        {"name": "persistent", "image": 8, "preText": "make ", "text": " restarts after defeat", "targets": [
+            {"value": 1, "reward": 100},
+            {"value": 3, "reward": 200},
+            {"value": 5, "reward": 500},
+            {"value": 7, "reward": 1000},
+            {"value": 10, "reward": 3000}
+        ]},
+        {"name": "astronomer", "image": 9, "preText": "earn ", "text": " stars", "targets": [
+            {"value": 9, "reward": 100},
+            {"value": 18, "reward": 200},
+            {"value": 27, "reward": 500},
+            {"value": 36, "reward": 1000},
+            {"value": 39, "reward": 3000}
+        ]},
+        {"name": "spender", "image": 6, "preText": "spend ", "text": " money", "targets": [
+            {"value": 10000, "reward": 100},
+            {"value": 20000, "reward": 200},
+            {"value": 50000, "reward": 500},
+            {"value": 100000, "reward": 1000},
+            {"value": 160000, "reward": 3000}
+        ]}
+    ],
+    "animations": {
+        "barrel1objAnim": {"speed": 30, "frameName": "barrel1objAnim", "image": "pc6_1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]},
+        "gunQuadBike1": {"speed": 31, "frameName": "animGunQuadBike1", "image": "enemyQuadBike1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]},
+        "gunCougar2": {"speed": 31, "frameName": "animGunCougar2", "image": "enemyCougar1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]},
+        "gunHummer1": {"speed": 31, "frameName": "animGunHummer1", "image": "enemyHummer1", "frames": [1, 2, 3, 4, 5, 6, 7, 8]},
+        "gunHummer2": {"speed": 31, "frameName": "animGunHummer2", "image": "enemyHummer1", "frames": [1, 2, 3, 4, 5]},
+        "gunAligator": {"speed": 31, "frameName": "GunAligator", "image": "enemyAligator1", "frames": [1, 2, 3, 4, 5, 6, 7]},
+        "subGunBossCot": {"speed": 31, "frameName": "ramCot", "image": "bossCot", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},
+        "gunBossCot": {"speed": 31, "frameName": "animGunCot", "image": "bossCot", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]},
+        "barrel1": {"speed": 31, "frameName": "barrel1", "image": "pc6_1", "frames": 8},
+        "barrel2": {"speed": 31, "frameName": "barrel2", "image": "pc6_1", "frames": 6},
+        "barrel3": {"speed": 31, "frameName": "barrel3", "image": "pc6_1", "frames": 15},
+        "barrel4": {"speed": 31, "frameName": "barrel4", "image": "pc6_1", "frames": [1, 2, 3, 4, [5, "pc6_2"], [6, "pc6_2"]]},
+        "barrel4mini": {"speed": 31, "frameName": "barrel4mini", "image": "pc6_2", "frames": 6},
+        "barrel5": {"speed": 31, "frameName": "barrel5", "image": "pc6_2", "frames": 7},
+        "barrel5mini": {"speed": 31, "frameName": "barrel5mini", "image": "pc6_2", "frames": 5},
+        "barrel6": {"speed": 31, "frameName": "barrel6", "image": "pc6_2", "frames": 7},
+        "barrel6mini": {"speed": 31, "frameName": "barrel6mini", "image": "pc6_2", "frames": 4},
+        "barrel6objAnim": {"speed": 31, "frameName": "barrel6objAnim", "image": "pc6_2", "frames": 40},
+        "HandGun": {"speed": 31, "frameName": "HandGun", "image": "bossSecator1", "frames": 5},
+        "manGun1H": {"speed": 31, "frameName": "manGun1", "image": "enemyHeavytruck1", "frames": 20},
+        "manGun2H": {"speed": 31, "frameName": "manGun2", "image": "enemyHeavytruck1", "frames": 5},
+        "manGun3H": {"speed": 31, "frameName": "manGun3", "image": "enemyHeavytruck1", "frames": 5},
+        "manGun4H": {"speed": 31, "frameName": "manGun4", "image": "enemyHeavytruck1", "frames": 5},
+        "gunNomad": {"speed": 31, "frameName": "animGunNomad", "image": "enemyNomad1", "frames": 16},
+        
+        "burn1": {"speed": 60, "frameName": "effectBurning", "image": "effectAll1", "frames": 15},
+        "burn3": {"speed": 60, "frameName": "effectBurningPlasma", "image": "effectAll1", "frames": 15},
+        "burn2": {"speed": 60, "frameName": "effectBurningToxic", "image": "effectAll1", "frames": 15},
+        
+        "engine1": {"speed": 25, "frameName": "engine1", "image": "pc6_2", "frames": 20},
+        "engine2": {"speed": 25, "frameName": "engine2", "image": "pc6_2", "frames": 20},
+        "engine3": {"speed": 25, "frameName": "engine3", "image": "pc6_2", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, [13, "pc6_3"], [14, "pc6_3"], [15, "pc6_3"], [16, "pc6_3"], [17, "pc6_3"], [18, "pc6_3"], [19, "pc6_3"], [20, "pc6_3"]]},
+        "engine4": {"speed": 25, "frameName": "engine4", "image": "pc6_3", "frames": 20},
+        "engine5": {"speed": 25, "frameName": "engine5", "image": "pc6_3", "frames": 20},
+        "engine6": {"speed": 25, "frameName": "engine6", "image": "pc6_3", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, [10, "pc6_4"], [11, "pc6_4"], [12, "pc6_4"], [13, "pc6_4"], [14, "pc6_4"], [15, "pc6_4"], [16, "pc6_4"], [17, "pc6_4"], [18, "pc6_4"], [19, "pc6_4"], [20, "pc6_4"]]},
+        "launcher1": {"speed": 40, "frameName": "launcher1", "image": "pc6_5", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, [16, "pc6_6"], [17, "pc6_6"], [18, "pc6_6"], [19, "pc6_6"], [20, "pc6_6"], [21, "pc6_6"], [22, "pc6_6"], [23, "pc6_6"], [24, "pc6_6"], [25, "pc6_6"]]},
+        "launcher2": {"speed": 25, "frameName": "launcher2", "image": "pc6_6", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+        "launcher3": {"speed": 25, "frameName": "launcher3", "image": "pc6_6", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+        "launcher4": {"speed": 25, "frameName": "launcher4", "image": "pc6_6", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, [11, "pc6_7"], [12, "pc6_7"], [13, "pc6_7"], [14, "pc6_7"], 15]},
+        "launcher5": {"speed": 25, "frameName": "launcher5", "image": "pc6_7", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+        "launcher6": {"speed": 30, "frameName": "launcher6", "image": "pc6_7", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, [14, "pc6_8"], [15, "pc6_8"], [16, "pc6_8"], [17, "pc6_8"], [18, "pc6_8"], [19, "pc6_8"], [20, "pc6_8"], [21, "pc6_8"], [22, "pc6_8"]]},
+        "launcher6Def": {"speed": 30, "frameName": "launcher6", "image": "pc6_7", "frames": [1, 2, 3, 4, 5, 6, 7]},
+        "missile1": {"speed": 35, "frameName": "missile1", "image": "pc6_8", "frames": 7},
+        "missile2": {"speed": 35, "frameName": "missile2", "image": "pc6_8", "frames": 5},
+        "missile3": {"speed": 35, "frameName": "missile3", "image": "pc6_8", "frames": 5},
+        "missile4": {"speed": 35, "frameName": "missile4", "image": "pc6_8", "frames": 5},
+        "missile5": {"speed": 35, "frameName": "missile5", "image": "pc6_8", "frames": 5},
+        "missile6": {"speed": 35, "frameName": "missile6", "image": "pc6_8", "frames": 10},
+        "floater5": {"speed": 35, "frameName": "floater5", "image": "pc6_4", "frames": 40},
+        "floater6": {"speed": 30, "frameName": "floater6", "image": "pc6_4", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, [23, "pc6_5"], [24, "pc6_5"], [25, "pc6_5"], [26, "pc6_5"], [27, "pc6_5"], [28, "pc6_5"]]},
+        "ManGun": {"speed": 35, "frameName": "ManGun", "image": "enemyStaticInfantry1", "frames": [1, 2, 3, 4]},
+        "ManRocket": {"speed": 45, "frameName": "ManRocket", "image": "enemyStaticInfantry1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]},
+        "Cannon": {"speed": 35, "frameName": "animCannon", "image": "enemyStaticCannon1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]},
+        "gunLcar": {"speed": 35, "frameName": "animGunLcar2", "image": "enemyLight", "frames": [1, 2, 3, 4, 5, 6]},
+        "animGunRec1": {"speed": 35, "frameName": "animGunRec1", "image": "enemyRecreation1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},
+        "engineRec": {"speed": 35, "frameName": "engineRec", "image": "enemyRecreation1", "frames": [1, 2, 3, 4, 5]},
+        "engineMuscle": {"speed": 35, "frameName": "engineMuscle", "image": "enemyMuscle1", "frames": [1, 2, 3, 4, 5]},
+        
+        "animShocker1": {"speed": 30, "frameName": "animShocker", "image": "enemyShock1", "frames": [11, 12, 13, 14, 15, 16, 17, 18]},
+        "animShocker": {"speed": 30, "frameName": "animShocker", "image": "enemyShock1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]},
+        
+        "animGunPodBike": {"speed": 35, "frameName": "animGunPodBike", "image": "enemyPodBike1", "frames": [1, 2, 3, 4, 5]},
+        "animGunHodrod": {"speed": 35, "frameName": "animGunHodrod", "image": "enemyHodrod1", "frames": [1, 2, 3, 4, 5, 6, 7, 8]},
+        "animEngineHodrod": {"speed": 35, "frameName": "animEngineHodrod", "image": "enemyHodrod1", "frames": [1, 2, 3, 4, 5]},
+        "animGunBuggie1": {"speed": 35, "frameName": "animGunBuggie1", "image": "enemyBuggie1", "frames": [1, 2, 3, 4, 5]},
+        "gunTank": {"speed": 35, "frameName": "gunTank", "image": "bossTank1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9]},
+        "gunMonster": {"speed": 35, "frameName": "gunMonster", "image": "bossMonsterTruk1", "frames": [1, 2, 3, 4, 5, 6, 7, 8]},
+        "engineSecator1": {"speed": 30, "frameName": "engineSecator1", "image": "bossSecator1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]},
+        "engineSecator2": {"speed": 35, "frameName": "engineSecator2", "image": "bossSecator1", "frames": [1, 2, 3, 4, 5, 6, 7]},
+        "barrelAmbulance": {"speed": 35, "frameName": "barrelAmbulance", "image": "pc0_1", "frames": 6},
+        "launcherAmbulance": {"speed": 35, "frameName": "launcherAmbulance", "image": "pc0_1", "frames": 15},
+        "gunTank2": {"speed": 35, "frameName": "gunTank2", "image": "bossTank1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]},
+        "animGunTanker": {"speed": 35, "frameName": "animGunTanker", "image": "enemyTanker1", "frames": [1, 2, 3, 4, 5]},
+        "animGunMt2": {"speed": 35, "frameName": "animGunMt2", "image": "enemyMonsterTruk1", "frames": [1, 2, 3, 4, 5]},
+        "manGunSnowBike": {"speed": 35, "frameName": "manGun", "image": "enemyShowBike1", "frames": [1, 2, 3, 4, 5]},
+        "animGunSbike": {"speed": 35, "frameName": "animGunSbike", "image": "enemyShowBike1", "frames": [1, 2, 3, 4, 5]},
+        "rocket01": {"speed": 35, "frameName": "rocket01", "image": "rocketAll1", "frames": [1, 2, 3, 4, 5]},
+        "rocket4": {"speed": 35, "frameName": "rocket4", "image": "rocketAll1", "frames": [1, 2, 3, 4, 5]},
+        "rocket3": {"speed": 35, "frameName": "rocket3", "image": "rocketAll1", "frames": [1, 2, 3, 4, 5]},
+        "explosion": {"speed": 100, "frameName": "explosion", "image": "effectAll2", "frames": [1, 2, 3, 4, 5, 6, [7, "effectAll3"], [8, "effectAll3"], [9, "effectAll3"]]},
+        "explosion2": {"speed": 240, "frameName": "effectExplosion2", "image": "effectAll2", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]},
+        "interfaceStarAnim": {"speed": 35, "frameName": "interfaceStarAnim", "image": "gameInterface2", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]},
+        "blinkGreen2": {"speed": 35, "frameName": "blinkGreen2", "image": "gameInterface1", "frames": 56},
+        "blinkGreen3": {"speed": 35, "frameName": "blinkGreen3", "image": "gameInterface1", "frames": 56},
+        "blinkGreen": {"speed": 35, "frameName": "blinkGreen", "image": "gameInterface1", "frames": 56},
+        "blinkRed2": {"speed": 35, "frameName": "blinkRed2", "image": "gameInterface1", "frames": 17},
+        "blinkRed3": {"speed": 35, "frameName": "blinkRed3", "image": "gameInterface1", "frames": 17},
+        "blinkRed": {"speed": 35, "frameName": "blinkRed", "image": "gameInterface2", "frames": 17},
+        "lampoRedAnim": {"speed": 35, "frameName": "lampoRedAnim", "image": "gameInterface2", "frames": 20},
+        "flashLightRed": {"speed": 35, "frameName": "flashLightRed", "image": "dialogBox1", "frames": 20},
+        "glowAnim": {"speed": 30, "frameName": "glowAnim", "image": "achievements1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, [24, "achievements2"], [25, "achievements2"], [26, "achievements2"], [27, "achievements2"], [28, "achievements2"], [29, "achievements2"], [30, "achievements2"]]},
+        "effectDestroy": {"speed": 45, "frameName": "effectDestroy", "image": "effectAll1", "frames": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, [28, "effectAll2"], [29, "effectAll2"], 30]},
+        
+        "engineCar5": {"speed": 31, "frameName": "engine", "image": "pc5_2", "frames": [[1, "pc5_1"], [2, "pc5_1"], [3, "pc5_1"], 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]},
+        "launcher1Car5": {"speed": 31, "frameName": "launcher1", "image": "pc5_2", "frames": 23},
+        "launcher2Car5": {"speed": 31, "frameName": "launcher2", "image": "pc5_2", "frames": [[26, "pc5_3"], 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, [18, "pc5_3"], [19, "pc5_3"], [20, "pc5_3"], [21, "pc5_3"], [22, "pc5_3"], [23, "pc5_3"], [24, "pc5_3"], [25, "pc5_3"], [26, "pc5_3"]]},
+        "missile1Car5": {"speed": 31, "frameName": "animMissile1", "image": "pc5_1", "frames": 5},
+        "missile2Car5": {"speed": 31, "frameName": "animMissile2", "image": "pc5_1", "frames": 5},
+        
+        "barrel1_1Car5": {"speed": 31, "frameName": "barrel1-1", "image": "pc5_1", "frames": 13},
+        "barrel1_2Car5": {"speed": 31, "frameName": "barrel1-2", "image": "pc5_1", "frames": 13},
+        "barrel2Car5": {"speed": 31, "frameName": "barrel2", "image": "pc5_1", "frames": 23},
+        "barrel3Car5": {"speed": 31, "frameName": "barrel3", "image": "pc5_1", "frames": 5}
+    }
+}

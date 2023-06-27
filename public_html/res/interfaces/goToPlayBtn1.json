@@ -1,0 +1,112 @@
+{
+	"frames": {
+		"btnGoPlay_001.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 1.5,
+				"w": 241,
+				"h": 78
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 17,
+				"y": 10.5,
+				"w": 241,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 280,
+				"h": 102
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnGoPlay_002.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 80.5,
+				"w": 269,
+				"h": 91
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 3,
+				"y": 3.5,
+				"w": 269,
+				"h": 91
+			},
+			"sourceSize": {
+				"w": 280,
+				"h": 102
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnGoPlay_003.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 1.5,
+				"w": 241,
+				"h": 78
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 17,
+				"y": 10.5,
+				"w": 241,
+				"h": 78
+			},
+			"sourceSize": {
+				"w": 280,
+				"h": 102
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		},
+		"btnGoPlay_004.png": {
+			"frame": {
+				"x": 1.5,
+				"y": 172.5,
+				"w": 247,
+				"h": 80.5
+			},
+			"rotated": false,
+			"trimmed": true,
+			"spriteSourceSize": {
+				"x": 14,
+				"y": 9,
+				"w": 247,
+				"h": 80.5
+			},
+			"sourceSize": {
+				"w": 280,
+				"h": 102
+			},
+			"pivot": {
+				"x": 0.5,
+				"y": 0.5
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "goToPlayBtn1.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 272,
+			"h": 254.5
+		},
+		"scale": "1",
+		"smartupdate": "$TexturePacker:SmartUpdate:b5a565cdf62419c55b05e49fa7fb7894:7de1b2a86b754685d893814c8bfbfc30:32138d9780ebb534b52d7eb7d2ed9cb3$"
+	}
+}
